@@ -1,3 +1,7 @@
+<div align="center">
+
+<a href="https://github.com/effjy/opsec-windows/"><img src="titles/opsec-windows-title.svg" height="52" alt="OpSec Windows"></a>
+
 # 🪟 Windows OpSec Hardening Guide
 
 > A complete, paranoid-grade guide to hardening a Windows 10/11 workstation or Server. Extensive PowerShell examples, real commands, defense-in-depth.
@@ -10,6 +14,8 @@
 ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?logo=github)
+
+</div>
 
 ---
 
